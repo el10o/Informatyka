@@ -1,2 +1,3 @@
 # Informatyka
 E Bajer
+szubidubi
